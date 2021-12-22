@@ -3,7 +3,7 @@
 **<div dir=rtl><font size=4> می خواهیم یک  POS با استفاده از Keras و یک لایه LSTM Bidirectional ایجاد کنیم.</div>**
 
 
-# <div dir='rtl'>  **خواندن اطلاعات** </div>
+# <div dir='rtl'>  **خواندن-اطلاعات** </div>
 
 
 
