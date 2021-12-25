@@ -3,9 +3,10 @@
 **<div dir=rtl><font size=4> می خواهیم یک  POS با استفاده از Keras و یک لایه LSTM Bidirectional ایجاد کنیم.</div>**
 
 
-# <div dir='rtl'>  **خواندن-00اطلاعات** </div>
-
 <div>test</div>
+# <div dir='rtl'>  **خواندن-اطلاعات** </div>
+
+    <div> change from github </div>
 
 ## <div dir='rtl'> **تغییرات-روی-داده-ورودی** </div>
 <div dir='rtl'><font size=3>  پایگاه داده مورد استفاده : UPC  </div>
